@@ -2,7 +2,7 @@
 
 
 ### API : Dark Sky API - REST
-Nous utilisons ici, l'API Dark Sky API pour la récupération des données météologique
+Nous utilisons ici, l'API Dark Sky API pour la récupération des données météologiques.
 
 ### Librairies supplementaires
 * okHttp
